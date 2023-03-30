@@ -1,2 +1,3 @@
+Line added from master branch
 Here are some notes 
 some more notes
